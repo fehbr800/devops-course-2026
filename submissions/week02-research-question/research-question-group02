@@ -26,22 +26,20 @@ DevSecOps: Técnicas e Ferramentas de Segurança na Automação de Pipelines CI/
 
 ## Questão de Pesquisa Principal (RQ)
 
-Como resolver o problema da fragmentação da segurança no desenvolvimento de software, quando inserida tardiamente, resulta em vulnerabilidades
-descobertas em estágios avançados, aumentando exponencialmente o custo e o tempo de correção, além de gerar riscos de exposição na produção.
+ As empresas têm implementado a segurança do modo tradicional, que realiza a verificação apenas na fase final do desenvolvimento,
+ ou já estão implementando técnicas de seguranças no início do desenvolvimento?
 
-##  Questões de Pesquisa Secundárias (RQ1 – RQ4)
+##  Questões de Pesquisa Secundárias (RQ1 – RQ3)
 
 **RQ1:**  
-Quais as principais ferramentas de análise estática (SAST) integráveis a pipelines?
+No contexto do modelo  Shift Left, em que medida a redução do tempo de resposta a vulnerabilidade e a eficiência são determinados 
+pela interação da capacidade técnica da ferramenta SAST e da qualificação da equipe de desenvolvimento?
 
 **RQ2:**  
-Como categorizar essas ferramentas de acordo com o contexto que podem ser aplicadas, linguagens suportadas ou ambientes suportados?
+Como a integração de ferramentas de SAST em pipelines de CI/CD impacta a qualidade da verificação de segurança no ciclo de desenvolvimento de software ?
 
 **RQ3:**  
-Quais critérios podem ser usados para verificar a relevancia para da ferramenta?
-
-**RQ4:**  
-(Escreva a questão)
+Quais critérios podem ser usados para  categorizar ferramentas SAST de acordo com o contexto que podem ser aplicadas, linguagens suportadas?
 
 ---
 
