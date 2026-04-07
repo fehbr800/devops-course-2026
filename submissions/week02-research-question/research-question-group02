@@ -1,0 +1,99 @@
+# Week 02 – Research Question
+
+Cada grupo deve definir as questões de pesquisa que irão guiar o estudo.
+
+As perguntas devem ser claras, específicas e alinhadas ao tema escolhido em DevOps.
+
+---
+
+## Nome do Grupo
+Grupo 02
+
+---
+
+## Integrantes
+- Gustavo Alves da Silva 
+- Arthur Esse Borges
+- Nome
+
+---
+
+## Tema Escolhido (da Semana 01
+DevSecOps: Técnicas e Ferramentas de Segurança na Automação de Pipelines CI/CD
+
+
+---
+
+## Questão de Pesquisa Principal (RQ)
+
+Como resolver o problema da fragmentação da segurança no desenvolvimento de software, quando inserida tardiamente, resulta em vulnerabilidades
+descobertas em estágios avançados, aumentando exponencialmente o custo e o tempo de correção, além de gerar riscos de exposição na produção.
+
+##  Questões de Pesquisa Secundárias (RQ1 – RQ4)
+
+**RQ1:**  
+Quais as principais ferramentas de análise estática (SAST) integráveis a pipelines?
+
+**RQ2:**  
+Como categorizar essas ferramentas de acordo com o contexto que podem ser aplicadas, linguagens suportadas ou ambientes suportados?
+
+**RQ3:**  
+Quais critérios podem ser usados para verificar a relevancia para da ferramenta?
+
+**RQ4:**  
+(Escreva a questão)
+
+---
+
+##  Palavras-chave
+
+**Exemplo:**
+- Integração
+- Ferramentas
+- Shift Left
+- DevSecOps
+- SAST
+- Vulnerabilidades
+- Desenvolvimento Seguro 
+
+
+---
+
+##  Descrição do Problema
+
+Escreva um parágrafo curto (5 a 8 linhas) explicando:
+
+O DevOps promove a aceleração da entrega de software, promovendo ciclos de integração e deploy cada vez mais curtos. 
+Visando a era da IA na engenharia de software e o uso de agentes de IA cada vez mais frequente no ciclo de desenvolvimento, 
+devemos nos atentar sobre como a segurança está sendo tratada no desenvolvimento de software e assim desmistificar que a
+segurança deve ser tratada de forma final e isolada no ciclo de desenvolvimento de software.
+
+
+---
+
+##  Contribuição Esperada
+
+Explique brevemente (4 a 6 linhas):
+
+- O que o estudo pretende descobrir  
+- Como isso pode contribuir para o entendimento das práticas DevOps  
+
+Nossa pesquisa vai ter como foco as ferramentas de análise estática de segurança (SAST) que são as técnicas mais 
+facilmente integráveis em pipelines de CI/CD e que atuam nas fases iniciais do desenvolvimento.
+Nosso estudo contribui para que empresas possam analisar as diferentes opçoes de ferramentas de segurança que realizam
+a analise estatica do codigo e assim possam escolher a que melhor se adequa a seu ambiente,assim miniimizando vulnerabilidades
+no parte final do sistema.
+
+
+---
+
+##  Regras Importantes
+
+- NÃO fazer perguntas genéricas (ex: "O que é DevOps?")
+- As perguntas devem ser investigáveis em artigos científicos  
+- Utilize linguagem clara e formal  
+- Evite temas muito amplos  
+
+---
+
+##  Padrão do nome do arquivo
