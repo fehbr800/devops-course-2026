@@ -12,7 +12,7 @@ Um relatório de revisão sistemática fornece um resumo abrangente dos métodos
 - **Contato:** g.alves@aluno.ufr.edu.br, matheus.emanoel@aluno.ufr.edu.br, sara.cristina@aluno.ufr.edu.br
 ---
 
-## 2. Resumo (Abstract)
+<!-- ## 2. Resumo (Abstract)
 
 - **Contexto:** Breve contextualização e justificativa da revisão.  
 - **Objetivos:** Declaração clara dos objetivos principais.  
@@ -26,15 +26,15 @@ Um relatório de revisão sistemática fornece um resumo abrangente dos métodos
   - Resultados principais  
 - **Conclusões:** Principais conclusões e implicações para prática e pesquisa.  
 
----
-
+--- -->
+<!-- 
 ## 3. Introdução
 
 - **Contexto:** Descrição detalhada do problema e motivação da revisão.  
 - **Objetivos:** Questões de pesquisa ou objetivos específicos.  
 - **Justificativa:** Importância da revisão e impacto esperado.  
 
----
+--- -->
 
 ## 4. Métodos
 
@@ -57,7 +57,7 @@ Um relatório de revisão sistemática fornece um resumo abrangente dos métodos
 
   *("fintech" OR "financial technology" OR "digital banking") AND ("DevOps" OR "CI/CD" OR "continuous delivery") AND ("DORA metrics" OR "deployment frequency" OR "change failure rate" OR "pipeline metrics")*
 
-- **Seleção dos Estudos:**  
+<!-- - **Seleção dos Estudos:**  
   Processo de triagem e seleção dos artigos.  
 
 - **Extração de Dados:**  
@@ -149,4 +149,4 @@ Um relatório de revisão sistemática fornece um resumo abrangente dos métodos
 
 - Strings de busca  
 - Formulários de extração  
-- Materiais complementares  
+- Materiais complementares   -->
