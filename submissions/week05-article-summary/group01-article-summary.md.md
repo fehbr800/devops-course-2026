@@ -220,3 +220,158 @@ The main results reported include **growth and sector impact:** enterprise softw
 
 ---
 
+## 6. Paper 5 — Decomposition of Monolith Applications into Microservices Architectures: A Systematic Review 
+
+### 6.1 Objectives
+
+- Investigate and systematize the main approaches used in the decomposition of monolithic applications into microservices architectures.
+- Identify methods, techniques, tools, and strategies applied to the migration process.
+- Propose the M2MDF (Monolith to Microservices Decomposition Framework) as an organizational framework for decomposition.
+- Structure the migration process into six phases:
+   - input collection;
+   - monolith analysis;
+   - microservice identification;
+   - optimization;
+   - evaluation;
+   - deployment.
+- Analyze different data collection approaches, including:
+   - code-based analysis;
+   - logs;
+   - domain models;
+   - version history.
+- Examine modern techniques such as:
+   - clustering algorithms;
+   - genetic algorithms;
+   - neural networks;
+   - evolutionary optimization techniques.
+
+### 6.2 Method
+
+- Use of a Systematic Literature Review (SLR) methodology.
+- Analysis of 35 scientific studies related to monolith decomposition into microservices.
+- Application of:
+   - Grounded Theory techniques;
+   - quantitative content analysis.
+- Execution of the following research activities:
+   - full reading of selected papers;
+   - data extraction;
+   - iterative categorization;
+   - continuous refinement of the M2MDF framework.
+- Investigation of different analysis strategies, including:
+   - static analysis;
+   - dynamic analysis;
+   - domain analysis;
+   - version analysis.
+- Evaluation of microservice identification approaches based on:
+   - rules;
+   - clustering;
+   - evolutionary algorithms;
+   - architectural optimization techniques.
+- Continuous review and discussion of findings among the authors to ensure consistency and accuracy.
+
+### 6.3 Results
+
+- Identification of rapid growth in research related to monolith decomposition into microservices since 2016.
+- Recognition of static analysis as the most commonly used approach.
+- Observation that static analysis is frequently combined with:
+   - dynamic analysis;
+   - version analysis.
+- Identification of clustering algorithms as the primary technique for grouping:
+   - classes;
+   - methods;
+   - packages;
+   - candidate microservices.
+- Detection of emerging use of:
+   - genetic algorithms;
+   - neural networks;
+   - evolutionary techniques;
+   - automatic optimization approaches.
+- Identification of major limitations, including:
+   - strong dependence on expert knowledge;
+   - high computational cost of detailed analyses;
+   - lack of robust evaluation methods;
+   - lack of automatic deployment solutions.
+- Recognition of the M2MDF framework as an important contribution for organizing and structuring the migration process from monolithic systems to microservices architectures.
+
+---
+
+## 7. Paper 6 — Microservices Architectures Using Spring Boot: Embracing Containerization and Observability 
+
+### 7.1 Objectives
+
+Based on the content of the article, the main research objectives are:
+
+- Explore the adoption and implementation of microservices architecture using Spring Boot.
+- Analyze the benefits of microservices, including:
+   - scalability,
+   - flexibility,
+   - maintainability,
+   - resilience.
+- Investigate how Spring Boot simplifies microservices development.
+- Examine the role of containerization with Docker and orchestration with Kubernetes in deployment and scalability.
+- Evaluate the importance of observability in distributed architectures, including:
+   - logging,
+   - monitoring,
+   - distributed tracing.
+- Discuss the implementation of CI/CD pipelines for automating build, testing, and deployment processes.
+- Analyze security practices applied to microservices architectures.
+- Demonstrate, through real-world examples and metrics, the impact of these technologies on operational efficiency and system performance.
+
+### 7.2 Method
+
+- The article uses a technical and analytical review methodology based on:
+   - literature review;
+   - analysis of industry reports;
+   - statistical data from market surveys;
+   - real-world company examples;
+   - comparison between traditional architectures and microservices.
+- The approach includes:
+- Conceptual review of microservices architecture and Spring Boot.
+- Practical analysis of containerization using Docker and Kubernetes.
+- Study of observability tools such as:
+   - ELK Stack,
+   - Prometheus,
+   - Grafana,
+   - Jaeger.
+- Evaluation of CI/CD pipelines in real-world environments.
+- Discussion of modern security practices in microservices.
+- Use of quantitative metrics to demonstrate:
+   - performance,
+   - scalability,
+   - deployment time,
+   - failure reduction,
+   - operational improvement.
+
+### 7.3 Results
+
+- The results presented in the article show significant impacts from the adoption of microservices with Spring Boot, Docker, Kubernetes, and modern DevOps and observability practices.
+
+- Development and Productivity
+   - Up to 67% reduction in development time using Spring Boot.
+   - Faster deployment of independent microservices.
+   - Significant reduction in boilerplate code.
+- Scalability
+   - Automatic scaling during traffic spikes.
+   - Support for tens of thousands of simultaneous users.
+   - Better utilization of computational resources.
+- Observability
+   - Reduction of Mean Time to Detection (MTTD) from hours to minutes.
+   - Reduction of Mean Time to Resolution (MTTR) by up to 70%.
+   - Improved failure tracing in distributed systems.
+- CI/CD
+   - Increased deployment frequency:
+      - from 1 deployment per week
+      - to up to 10–15 deployments per day.
+   - Reduction in lead time:
+      - from weeks
+      - to approximately 20–30 minutes.
+   - Reduction in deployment failure rates from 15% to 2%.
+- Security
+   - Up to 90% reduction in security breaches.
+   - Significant decrease in container vulnerabilities.
+   - Improved regulatory compliance and API protection.
+
+---
+
+
+
