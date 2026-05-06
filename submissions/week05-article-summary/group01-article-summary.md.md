@@ -1,3 +1,224 @@
+# Article Summaries Ordered by Selection Table
+
+**Group 01**  
+*Week 05 deliverable — article summaries*
+
+---
+
+## Abstract
+
+This document organizes the paper summaries in the same sequence used in the group selection table (items 1 to 10). For each item, the structure follows objective, method, and results. When a full summary is still pending, the section is kept as a placeholder to preserve the final order.
+
+**Keywords:** DevOps; SRE; GitOps; continuous delivery; DevSecOps; microservices; enterprise software; maturity model; software metrics.
+
+---
+
+## Table of Contents
+
+- [1. Introduction](#1-introduction)
+- [2. Paper 1 — GitOps and CD in Financial Software](#2-paper-1--gitops-and-cd-in-financial-software)
+- [3. Paper 2 — Systematic Review of KPIs in Modern DevOps](#3-paper-2--systematic-review-of-kpis-in-modern-devops)
+- [4. Paper 3 — DevOps Maturity Framework](#4-paper-3--devops-maturity-framework)
+- [5. Paper 4 — Synergistic Impact of AI on DevOps](#5-paper-4--synergistic-impact-of-ai-on-devops)
+- [6. Paper 5 — Role of Test Automation Frameworks](#6-paper-5--role-of-test-automation-frameworks)
+- [7. Paper 6 — Performance Metrics and OKR Alignment](#7-paper-6--performance-metrics-and-okr-alignment)
+- [8. Paper 7 — Microservices with Spring Boot](#8-paper-7--microservices-with-spring-boot)
+- [9. Paper 8 — Decomposition of Monolith into Microservices](#9-paper-8--decomposition-of-monolith-into-microservices)
+- [10. Paper 9 — Decision-Making in Agile Software Engineering (SLR)](#10-paper-9--decision-making-in-agile-software-engineering-slr)
+- [11. Paper 10 — Future of Enterprise Software Development](#11-paper-10--future-of-enterprise-software-development)
+- [12. Concluding Remarks](#12-concluding-remarks)
+
+---
+
+ the paper is to review and organize key performance metrics used in DevOps and SRE.
+
+### 3.2 Method
+
+The authors apply a systematic review (PRISMA), selecting high-quality studies from academic and industry sources.
+
+### 3.3 Results
+
+The results emphasize DORA metrics (deployment frequency, lead time, change failure rate, and MTTR), plus SRE concepts (SLI, SLO, and error budgets).
+
+---
+
+## 4. Paper 3 — DevOps Maturity Framework
+
+**Citation (short):** *A DevOps Maturity Framework for Enhancing Cross-Functional Collaboration and Continuous Deployment Efficiency*.
+
+### 4.1 Objective
+
+To propose a maturity framework for assessing and improving DevOps capabilities.
+
+### 4.2 Method
+
+Review and comparison of models such as CALMS, DORA, and maturity model concepts.
+
+### 4.3 Results
+
+The study proposes five maturity levels and highlights people, process, and technology as core dimensions.
+
+---
+
+## 5. Paper 4 — Synergistic Impact of AI on DevOps
+
+**Citation (short):** *Synergistic Impact of AI on DevOps*.
+
+### 5.1 Objective
+
+Pending full write-up.
+
+### 5.2 Method
+
+Pending full write-up.
+
+### 5.3 Results
+
+Pending full write-up.
+
+---
+
+## 6. Paper 5 — Role of Test Automation Frameworks
+
+**Citation (short):** *Role of Test Automation Frameworks*.
+
+### 6.1 Objective
+
+Pending full write-up.
+
+### 6.2 Method
+
+Pending full write-up.
+
+### 6.3 Results
+
+Pending full write-up.
+
+---
+
+## 7. Paper 6 — Performance Metrics and OKR Alignment
+
+**Citation (short):** *Performance Metrics and OKR Alignment*.
+
+### 7.1 Objective
+
+Pending full write-up.
+
+### 7.2 Method
+
+Pending full write-up.
+
+### 7.3 Results
+
+Pending full write-up.
+
+---
+
+## 8. Paper 7 — Microservices with Spring Boot
+
+**Citation (short):** *Microservices Architectures Using Spring Boot: Embracing Containerization and Observability*.
+
+### 8.1 Objective
+
+Explore microservices adoption using Spring Boot, with focus on containerization, observability, CI/CD, and security.
+
+### 8.2 Method
+
+Technical and analytical review based on literature, industry reports, and real-world examples.
+
+### 8.3 Results
+
+The paper reports productivity gains, scalability improvements, faster incident handling with observability, and better deployment performance through CI/CD.
+
+---
+
+## 9. Paper 8 — Decomposition of Monolith into Microservices
+
+**Citation (short):** *Decomposition of Monolith Applications into Microservices Architectures: A Systematic Review*.
+
+### 9.1 Objective
+
+Investigate and systematize approaches for decomposing monolithic systems into microservices.
+
+### 9.2 Method
+
+Systematic literature review with categorization of decomposition techniques and supporting analyses.
+
+### 9.3 Results
+
+The review identifies clustering-based approaches as dominant, with growing use of AI/evolutionary techniques and recurring challenges in evaluation and automation.
+
+---
+
+## 10. Paper 9 — Decision-Making in Agile Software Engineering (SLR)
+
+**Citation (short):** *Decision-Making in Agile Software Engineering: A Systematic Literature Review of Models, Methods, Actors and Lifecycle Contexts*.
+
+### 10.1 Objective
+
+The objective of this paper is to consolidate and structure existing research on decision-making in agile software engineering. The authors argue that decision-making is central to agile development, but the literature is fragmented across different models, methods, roles, lifecycle stages, and contexts.
+
+The study aims to identify how decisions are made in agile software engineering, which models and techniques are used, who participates in the decision-making process, where decisions occur in the software lifecycle, and what benefits and challenges are reported.
+
+### 10.2 Method
+
+The paper uses a Systematic Literature Review (SLR) methodology. The review was conducted using guidelines from Kitchenham et al. and the SEGRESS framework, which is based on PRISMA and adapted for software engineering secondary studies.
+
+The authors searched four major academic databases:
+
+- IEEE Xplore
+- ACM Digital Library
+- Scopus
+- Web of Science
+
+The search covered studies published from 2014 to 2024 and was complemented by backward and forward snowballing. After screening, duplicate removal, inclusion and exclusion criteria, and full-text analysis, 42 studies were selected for final synthesis.
+
+The selected studies were analyzed using a structured coding scheme that classified the literature according to:
+
+- Research methodology
+- Decision-making type
+- Decision-making models
+- Decision-making methods
+- Actors and roles involved
+- Software lifecycle context
+- Decision focus
+- Reported benefits and challenges
+
+### 10.3 Results
+
+The review found that research on agile decision-making is concentrated mainly in planning and requirements-related activities. Analytical and hybrid decision-making models are the most commonly reported, especially in contexts such as backlog prioritization, release planning, architectural decisions, and risk assessment.
+
+The study also found that software developers are the most frequently studied decision-making actors. Managers appear less often and are usually discussed as external or strategic stakeholders rather than as active participants in agile decision-making workflows.
+
+Another important result is that later lifecycle stages, such as coding, testing, release, and operations, are underexplored. The authors argue that decision-making in these stages is often implicit, experience-based, and embedded in daily work, which makes it less visible in formal research.
+
+The paper identifies several benefits of structured agile decision-making, including improved prioritization, better collaboration, more transparent decision processes, and stronger alignment between technical work and project goals. However, it also identifies challenges such as fragmented terminology, inconsistent decision models, limited attention to managerial decision-making, and insufficient research on decision-making during implementation and quality assurance activities.
+
+The main contribution of the paper is a structured synthesis of decision-making in agile software engineering across models, methods, actors, lifecycle contexts, and outcomes. The authors also propose a clearer nomenclature based on the 5W1H framework to help future studies compare and organize research on agile decision-making more effectively.
+
+---
+
+## 11. Paper 10 — Future of Enterprise Software Development
+
+**Citation (short):** *The Future of Enterprise Software Development: Growth, Challenges and Opportunities*.
+
+### 11.1 Objective
+
+Analyze growth, challenges, and opportunities in enterprise software across sectors.
+
+### 11.2 Method
+
+Mixed-methods approach with literature review, case studies, surveys, and interviews.
+
+### 11.3 Results
+
+The study reports strong growth driven by digital transformation, cloud adoption, automation, and AI, with impacts across EdTech, finance, healthcare, HR, supply chain, and cleantech.
+
+---
+
+## 12. Concluding Remarks
+
+The file is now organized in the exact sequence of the summary table (1 to 10). Missing papers remain in place with placeholders so the team can complete the pending summaries without changing the overall structure.
 # Summaries of Selected Papers: DevOps and SRE Metrics, GitOps in Financial Software, DevOps Maturity, and Enterprise Software Development
 
 **Group 01**  
